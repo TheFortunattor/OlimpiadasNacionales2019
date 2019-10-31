@@ -2,7 +2,7 @@
     Private Sub FormResponderLLamado_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         ComboBoxRespuesta.Items.Clear()
         flag = 1
-        sql = ("select fkidsec from alarma where tiempo_respuesta is NULL")
+        sql = ("select fkidsec from alarma where tiempo_resp is NULL")
 
         Try
             Call ejecutar(sql)
@@ -23,7 +23,7 @@
 
     Private Sub BtnSetRsp_Click(sender As Object, e As EventArgs) Handles btnSetRsp.Click
         flag = 1
-        sql = ("update alarma set tiempo_respuesta = curtime() where fkidsec = '" & ComboBoxRespuesta.Text & "'")
+        sql = ("update alarma set tiempo_resp = curtime() where fkidsec = '" & ComboBoxRespuesta.Text & "'")
 
         Try
             Call ejecutar(sql)
@@ -34,7 +34,7 @@
 
             ComboBoxRespuesta.Items.Clear()
             flag = 1
-            sql = ("select fkidsec from alarma where tiempo_respuesta is NULL")
+            sql = ("select fkidsec from alarma where tiempo_resp is NULL")
 
             Try
                 Call ejecutar(sql)

@@ -85,6 +85,18 @@
     <Compile Include="FormAdministracion.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormAgregarPaciente.Designer.vb">
+      <DependentUpon>FormAgregarPaciente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAgregarPaciente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFichaPaciente.Designer.vb">
+      <DependentUpon>FormFichaPaciente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormFichaPaciente.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormPrincipal.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -102,6 +114,18 @@
       <DependentUpon>FormVerAlarmas.vb</DependentUpon>
     </Compile>
     <Compile Include="FormVerAlarmas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVerFichaPac.Designer.vb">
+      <DependentUpon>FormVerFichaPac.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormVerFichaPac.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresarUsuario.Designer.vb">
+      <DependentUpon>IngresarUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IngresarUsuario.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Module1.vb" />
@@ -128,6 +152,12 @@
     <EmbeddedResource Include="FormAdministracion.resx">
       <DependentUpon>FormAdministracion.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormAgregarPaciente.resx">
+      <DependentUpon>FormAgregarPaciente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFichaPaciente.resx">
+      <DependentUpon>FormFichaPaciente.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormPrincipal.resx">
       <DependentUpon>FormPrincipal.vb</DependentUpon>
     </EmbeddedResource>
@@ -136,6 +166,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormVerAlarmas.resx">
       <DependentUpon>FormVerAlarmas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVerFichaPac.resx">
+      <DependentUpon>FormVerFichaPac.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresarUsuario.resx">
+      <DependentUpon>IngresarUsuario.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

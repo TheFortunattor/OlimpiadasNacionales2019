@@ -25,4 +25,9 @@
         FormResponderLLamado.Show()
         Me.Hide()
     End Sub
+
+    Private Sub BtnAdmin_Click(sender As Object, e As EventArgs) Handles btnAdmin.Click
+        FormAdministracion.Show()
+        Me.Hide()
+    End Sub
 End Class
