@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+    background-color: gray;
+    background-size: cover;
+}
+
+.principal {
+    text-align: center;
+    font-optical-sizing: unset;
+}
+
+.input{
+    width: 40vw;
+    height: 10vh;
+    margin-top: 5vh;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+}
+
+.submit{
+    width: 20vh;
+    height: 10vh;
+    margin-top: 10vh;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+}
+
+.logo{
+    margin-left: 41.5vw ;
+    width: 15vw;
+    height: 15vw;
+}
+
+.botonAlarma{
+    margin-top: 3vh;
+    height: 60vh;
+    width: 60vh;
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 50%;
+    font-size: 5vh;
+}
+
+.botonVolver{
+    margin-top: 5vh;
+    height: 30vh;
+    width: 40vw;
+    background-color: lightblue;
+    font-size: 5vh;
+}
