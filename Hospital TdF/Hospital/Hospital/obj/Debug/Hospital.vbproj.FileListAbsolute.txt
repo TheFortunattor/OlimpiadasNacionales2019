@@ -1,0 +1,12 @@
+C:\Users\alumno\Desktop\Hospital TdF\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\alumno\Desktop\Hospital TdF\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\alumno\Desktop\Hospital TdF\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\alumno\Desktop\Hospital TdF\Hospital\Hospital\bin\Debug\Hospital.xml
+C:\Users\alumno\Desktop\Hospital TdF\Hospital\Hospital\obj\Debug\Hospital.vbprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Hospital TdF\Hospital\Hospital\obj\Debug\Hospital.FichaPaciente.resources
+C:\Users\alumno\Desktop\Hospital TdF\Hospital\Hospital\obj\Debug\Hospital.Form2.resources
+C:\Users\alumno\Desktop\Hospital TdF\Hospital\Hospital\obj\Debug\Hospital.Resources.resources
+C:\Users\alumno\Desktop\Hospital TdF\Hospital\Hospital\obj\Debug\Hospital.vbproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Hospital TdF\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\alumno\Desktop\Hospital TdF\Hospital\Hospital\obj\Debug\Hospital.xml
+C:\Users\alumno\Desktop\Hospital TdF\Hospital\Hospital\obj\Debug\Hospital.pdb
